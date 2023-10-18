@@ -1,2 +1,3 @@
 # math_codes
 Repo for Math related code
+1. Knuth's Up Arrow Notation (Power Tower) -- 10/18/2023
