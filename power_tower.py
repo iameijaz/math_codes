@@ -20,6 +20,7 @@ def get_tower(a, b, c):
     a: the base digit
     b: number of arrows
     c: digit after arrow(s)
+    get_tower(2,5,3) --> 2^^^^^3 --> 2^2^2^2^3
     '''
     if b==1:
         return (a**c)
