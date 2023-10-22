@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=uCsD3ZGzMgE Numberphile Video
 There are n people around a circle, and proceeding around the circle every second person is executed
 until no one survives in n iterations. The Josephus Problem is to identify the initial position to be
 the last survivor in this scenario.
+https://www.desmos.com/calculator/aurturgc0t
 
 '''
 
